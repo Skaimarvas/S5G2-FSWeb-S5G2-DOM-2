@@ -31,11 +31,11 @@ Bu projede sakın **hiçbir dosyayı taşımayın veya adını değiştirmeyin**
   - [x] `keydown`
   - [x] `wheel`
   - [x] `load`
-  - [ ] `focus`
-  - [ ] `resize`
-  - [ ] `scroll`
-  - [ ] `select`
-  - [ ] `dblclick`
+  - [x] `focus`
+  - [x] `resize`
+  - [x] `scroll`
+  - [x] `select`
+  - [x] `dblclick`
   - [ ] `drag / drop`
 
 Not: Drag/drop diğerlerine göre biraz daha alengirli. Bu aslında tek bir tür event türü değil, birkaç farklı tür eventin bir arada çalışması gerekir.
